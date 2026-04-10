@@ -27,6 +27,11 @@ It exposes a REST API endpoint that accepts JSON messages and returns predefined
 
 ---
 
+## 🌍 Live API
+https://whatsapp-chatbot-backend-ptb7.onrender.com/webhook
+
+---
+
 ## ▶️ How to Run the Project
 
 1. Clone the repository:
